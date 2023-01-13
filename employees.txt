@@ -1,0 +1,20 @@
+D,1,John,Smith,1990-02-10,42 Victoria St. Hurstville NSW,2456,10001,AVAILABLE
+D,2,Peter,Taylor,1970-01-12,42 Victoria St. Hurstville NSW,2456,10008,ONLEAVE
+D,3,John,Doe,1966-03-23,12 Station St. Dapto NSW,2530,10002,AVAILABLE
+D,4,John,Gray,1988-05-05,16 Station St. Dapto NSW,2530,10004,AVAILABLE
+D,5,Adam,Taylor,1980-01-01,42 Church St. City NSW,2300,10003,ONLEAVE
+M,6,Paris,Hilton,1990-02-10,1 Hilton St. Melbourne Vic,3000,A1234567,SUPPORT
+D,7,Michael,Jones,1975-03-05,23 Waterloo Ave. Surry Hills NSW,2502,10012,AVAILABLE
+D,8,Frederic,Jones,1990-02-10,3 Victoria St. Redfern NSW,2420,20002,BUSY
+D,9,Peter,O'Brien,1983-02-28,19 Lucas Dr. Horsley NSW,2530,20003,BUSY
+D,10,John,Lucas,1966-12-16,20 Huxley St. Horsley NSW,2530,30005,BUSY
+M,11,Lady,Gaga,1990-02-10,3 Pork st. Hobart Tas,7000,B1234567,SUPPOER
+D,12,John,Fox,1975-10-15,18 Victoria St. Hurstville NSW,2456,40002,BUSY
+D,13,Adam,Fox,1990-02-10,45 Victoria St. Hurstville NSW,2456,20045,AVAILABLE
+D,14,Phillip,Cox,1984-12-12,5 The Avenue Rockdale NSW,2300,20055,AVAILABLE
+D,15,Andrew,Smith,1969-04-04,42 Bambaramba Ave. Pennant Hills NSW,2556,20065,AVAILABLE
+D,16,Andrew,Smith,1992-04-01,67 King Cr. Hurstville NSW,2456,10305,AVAILABLE
+D,17,Michael,Potter,1995-04-01,568 Bong Bong St. Horsley NSW,2530,10345,AVAILABLE
+D,18,Harry,Potter,1995-04-01,568 Bong Bong St. Horsley NSW,2530,10705,AVAILABLE
+D,19,James,Bond,1990-02-10,7 Alan Bond St. Perth WA,6000,40005,AVAILABLE
+M,20,Robin,Hood,1990-02-10,6 Nottingham Pl. Sydney NSW,2000,A7654321,SUPPORT
